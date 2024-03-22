@@ -1,0 +1,314 @@
+[
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Abilities\\DefaultAbility.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Abilities\\DefaultAbility.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Abilities\\TrainAbility.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Abilities\\TrainAbility.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Characters\\CBP_TestCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Characters\\CBP_TestCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Characters\\CharacterUtilities.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Characters\\CharacterUtilities.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\CustomStates\\BoatState.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\CustomStates\\BoatState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\CustomStates\\CustomState.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\CustomStates\\CustomState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\CustomStates\\TargetingState.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\CustomStates\\TargetingState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\CustomStates\\TrainState.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\CustomStates\\TrainState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\CustomStates\\WalkState.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\CustomStates\\WalkState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Enemies\\CBP_BaseEnemy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Enemies\\CBP_BaseEnemy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Lamp.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Lamp.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Lamp.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Models\\BaseAbility.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Models\\BaseAbility.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Models\\BaseState.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Models\\BaseState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Models\\ENUM_AttackType.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Models\\ENUM_States.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Models\\MAP_StateMap.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\Models\\MAP_StateMap.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\StateMachineComponent\\StateMachine.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\StateMachineComponent\\StateMachine.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\StateMachineComponent\\StateSelecter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\StateMachineComponent\\StateSelecter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\States\\AimingState.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\States\\AimingState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\States\\TargettingState.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\Source\\Lamp\\States\\TargettingState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Ipanr\\Desktop\\UE5Proyects\\Lamp\\.vscode\\compileCommands_Default\\Lamp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
